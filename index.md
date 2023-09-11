@@ -69,7 +69,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 ### Development of a Management Panel with Streamlit
 In this project, the concepts of Pyhton programming, data manipulation, strategic thinking and business logic, along with web development tools, like Streamlit and Github, where used to build a management panel with the most important business metrics of a restaurant marketplace.The final product was a panel hosted in a cloud environmennt and made available via a link. The panel can be accessed by any device connected to the internet.
 
-<!-- <img src="images/streamlit.png?raw=true"/> -->
+<img src="images/streamlit.png?raw=true"/> 
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Streamlit-FF4B4B?logo=Streamlit
 )](#)  
