@@ -6,7 +6,9 @@
 
 In this project I made the sales forecast for 1115 pharmacys stores in europe. With the focus in a specific time, the predictions are made for 6 weeks in the future. The aim is to give to the CEO a complete view of the stores, to make the best decisions. The final result was a Telegram bot, feed by an API, where you can access sales forecast for all stores using only the store code.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?style=for-the-badge&logo=heroku&logoColor=white)
+<img src="images/competition_distane.png?raw=true" />
+
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) ![Heroku](https://img.shields.io/badge/heroku-%23430098.svg?logo=heroku)
 
 [View code on GitHub](https://github.com/natan-matos/sales-prediction)
 
