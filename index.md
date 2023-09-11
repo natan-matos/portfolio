@@ -1,14 +1,14 @@
-## Selected projects in data science, machine learning and NLP
+## Selected projects in data science adn Machine Learning
 
 ---
 
-### Deep NLP for hate speech detection
+### Sales Forecast with Time Series
 
-Hate speech detection is the automated task of determining whether a piece of text contains hateful content. In this project, I built a classifier using PyTorch to fine-tune a BERT model.
+In this project I made the sales forecast for 1115 pharmacys stores in europe. With the focus in a specific time, the predictions are made for 6 weeks in the future. The aim is to give to the CEO a complete view of the stores, to make the best decisions. The final result was a Telegram bot, feed by an API, where you can access sales forecast for all stores using only the store code.
 
-[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/PyTorch-white?logo=pytorch)](#) [![](https://img.shields.io/badge/Twitter-white?logo=Twitter)](#) [![](https://img.shields.io/badge/HuggingFace_Transformers-white?logo=huggingface)](#)
+[![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](#) 
 
-[View code on Colab](https://colab.research.google.com/drive/1d_q0vUpgwmbN7imUcdsbuDwJ61OuBjvO?usp=sharing)
+[View code on GitHub](https://github.com/natan-matos/sales-prediction)
 
 ---
 
