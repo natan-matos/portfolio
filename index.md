@@ -78,12 +78,28 @@ In this project, the concepts of Pyhton programming, data manipulation, strategi
 
 ---
 
-## Skills-based projects
-A selection of smaller projects demonstrating specific data science and ML skills.
+## Main Skills
+A section about my skllin in the Data Science field:
 
-- [Working in the cloud: Using data stored in AWS S3 buckets](#)
-- [Optimising code with multiprocessing](#)
-
+- **Programming Languages**
+   - Python
+   - ETL
+   - SQL
+   - AWS and GCP
+- **Machine Learning**
+   - Descriptive Statistics (location, dispertion, asymmetry, kurtosis, density)
+   - Regression, Classification, Clustering, NLP
+   - Data balancing
+   - Performance Metrics ((RME, MAE, MAPE, Confusion Matrix, Precision, Recall, CurvaROC, Curve Lift, AUC, Silhouette Score, DB-Lite)
+   - Sklern and Scipy packages
+- **Data Visualization**
+   - Matplotlib, Seaborn and Plotly
+   - Streamlit
+- **Software Engineering**
+   - Git, Github and Gitlab
+   - Streamlit Cloud, Flask, APIs with Python
+   - Virtual Env
+   - Render
 
 
 
