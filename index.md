@@ -36,12 +36,15 @@ I took part in this challenge, using various ML and NLP techniques including: (i
 
 ---
 
-### Implementing a custom data collection pipeline using Scrapy and MongoDB
-The web hosts vast quantities of data useful for research. In this project, I built a custom data collection pipeline using the Python library `scrapy` and a MongoDB cluster.
+### Yelp Review Sentiment Analysis: Nourishing Restaurant Insights
+
+This project conducts sentiment analysis on Yelp restaurant reviews, utilizing natural language processing, machine learning and data mining techniques . By categorizing reviews as positive, negative, or neutral, it offers valuable insights to restaurant owners, aiding in the identification of strengths and areas for improvement. The analysis tracks sentiment trends over time, enabling data-driven decision-making and prompt issue resolution.
+
+<img src= "images/markus-spiske-Skf7HxARcoc-unsplash.jpg" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-[View code on Github]()
+[View code on Github](https://github.com/natan-matos/nlp)
 
 ---
 
