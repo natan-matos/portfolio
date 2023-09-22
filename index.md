@@ -40,7 +40,7 @@ I took part in this challenge, using various ML and NLP techniques including: (i
 
 This project conducts sentiment analysis on Yelp restaurant reviews, utilizing natural language processing, machine learning and data mining techniques . By categorizing reviews as positive, negative, or neutral, it offers valuable insights to restaurant owners, aiding in the identification of strengths and areas for improvement. The analysis tracks sentiment trends over time, enabling data-driven decision-making and prompt issue resolution.
 
-<img src= "images/markus-spiske-Skf7HxARcoc-unsplash.jpg" />
+<img src= "images/sentiment-analysis.png" />
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
