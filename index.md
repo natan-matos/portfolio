@@ -47,7 +47,7 @@ This project conducts sentiment analysis on Yelp restaurant reviews, utilizing n
 [View code on Github](https://github.com/natan-matos/nlp)
 
 ---
-
+<!-----
 ### Geospatial analysis of deprivation in London
 In this project, I use Geopandas to visualise data on deprivation levels in London and analyse changes over time.
 
@@ -67,7 +67,7 @@ A significant barrier to ML's adoption in many fields is the lack of interpretab
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/Jupyter-white?logo=Jupyter)](#) [![](https://img.shields.io/badge/sklearn-white?logo=scikit-learn)](#) [![](https://img.shields.io/badge/LIME-white?logo=LIME)](#) [![](https://img.shields.io/badge/SHAP-white?logo=SHAP)](#)
 
 [View code on Colab]()
-
+-->
 ---
 
 ### Development of a Management Panel with Streamlit
