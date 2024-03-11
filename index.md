@@ -62,7 +62,7 @@ This project conducts sentiment analysis on Yelp restaurant reviews, utilizing n
 
 [![](https://img.shields.io/badge/Python-white?logo=Python)](#) [![](https://img.shields.io/badge/MongoDB-white?logo=mongodb)](#) [![](https://img.shields.io/badge/Scrapy-white?logo=scrapy)](#) [![](https://img.shields.io/badge/Bash-white?logo=GNUbash)](#)
 
-[View code on Github](https://github.com/natan-matos/nlp)
+[View code on Github](https://github.com/natan-matos/sentiment-analysis)
 
 ---
 <!-----
