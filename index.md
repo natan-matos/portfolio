@@ -16,7 +16,7 @@ In this project I made the sales forecast for 1115 pharmacys stores in europe. W
 
 ### Loyalty program with high value customers | Clustering
 
-In this project I made the sales forecast for 1115 pharmacys stores in europe. With the focus in a specific time, the predictions are made for 6 weeks in the future. The aim is to give to the CEO a complete view of the stores, to make the best decisions. The final result was a Telegram bot, feed by an API, where you can access sales forecast for all stores using only the store code.
+In this project I developed a Clusterization algorithm for the creation of a loyalty program for the most valuable customers of an e-commerce. The entire project has been validated and made available on the AWS cloud.
 
 <img src="images/cluster.jpeg?raw=true" />
 
@@ -28,7 +28,7 @@ In this project I made the sales forecast for 1115 pharmacys stores in europe. W
 
 
 
-[View code on GitHub](https://github.com/natan-matos/sales-prediction)
+[View code on GitHub](https://github.com/natan-matos/loyalty-program)
 
 ---
 
