@@ -16,7 +16,7 @@ In this project I made the sales forecast for 1115 pharmacys stores in europe. W
 
 ### Loyalty program with high value customers | Clustering
 
-In this project I developed a Clusterization algorithm for the creation of a loyalty program for the most valuable customers of an e-commerce. The entire project has been validated and made available on the AWS cloud.
+This project aims to create an effective loyalty program for an e-commerce outlet. By analyzing customer behavior data, I’ve identified valuable insights and used UMAP for meaningful customer segmentation. This allows the Marketin team to tailor rewards and communication strategies. The deployed machine learning model, automated on AWS, supports business decisions based on customer behavior patterns.
 
 <img src="images/cluster.jpeg?raw=true" />
 
